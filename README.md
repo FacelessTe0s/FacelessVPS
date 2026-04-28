@@ -1,6 +1,3 @@
-# FacelessVPS
-Self-hosted network automation tool. Configures multi-protocol connections on your own VPS servers.
-
 # Faceless VPS
 
 Простая программа для автоматической настройки своей сетевой инфраструктуры на VPS.
