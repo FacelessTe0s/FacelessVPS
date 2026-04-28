@@ -90,6 +90,7 @@ Faceless VPS берёт два ваших сервера:
 ## Скачать
 
 Просто установите программу через обычный SETUP
+https://github.com/FacelessTe0s/FacelessVPS/releases/download/FacelessVPS/faceless-vps-setup.exe
 
 ---
 
